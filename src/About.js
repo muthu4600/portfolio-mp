@@ -32,7 +32,7 @@ function About() {
                 I'm always active to learn new things.
               </p>
                <p className="about__text p__color">
-                Note : this page is just Checking Process. i'm later to share updated link. 
+                Note : this page is for just tseting Process. i'll share the updated link later. 
               </p>
                <div className="about__button d__flex align__items__center">
                 <a href="https://drive.google.com/file/d/1UvOLuY79ELjIcAFHZPd9xXjgv1WdjMCA/view?usp=sharing" target={"_blank"}>
