@@ -47,7 +47,7 @@ function Education() {
                 </p>
                 <p className="p service__text p__color">CGPA: 7.53%.</p>
                 <p className="p service__text p__color">SBM College Of Engg & Tech</p>
-                <p className="p service__text p__color">Dingigul.</p>
+                <p className="p service__text p__color">Dindigul.</p>
               </div>
             </div>
           </div>
